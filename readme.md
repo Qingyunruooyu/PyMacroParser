@@ -15,9 +15,10 @@
 调用一次dumpDict，它的第二个默认参数设为false，得到一个合并的dict，写到cpp文件中
 
 *杂项*
+
 未考虑
 ```
-#define  a（short)5
+#define  a(short)5
 ```
 这种带有强制类型转换甚至其他函数的东西
 	
